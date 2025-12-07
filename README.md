@@ -1,6 +1,11 @@
+<div align="center">
+  
+  [![Open in Streamlit](https://img.shields.io/badge/Open_in_Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://banking-churn-dashboard.streamlit.app/)
+
+</div>
+
 # 💰 Banking Customer Churn Prediction Dashboard
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://banking-churn-dashboard.streamlit.app/)
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
 ![Status](https://img.shields.io/badge/Status-Shipped%20🚀-success)
 
